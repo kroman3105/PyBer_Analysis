@@ -14,3 +14,7 @@ The DataFrame revealed the following results:
  - Urban cities had the highest number of drivers at 2,405 while Rural cities had the least at 78
  - Urban cities brought in the most total fares at $39,854.38 followed by Suburban at $19,356.33 and Rural at $4,327.93
  - Rural cities brought in the highest fare per ride and per driver at $34.62 and $55.49 respectively.  Suburban cities brought in $30.71 per ride and $39.50 per driver while Urban cities brought in only $24.53 per ride and $16.57 per driver
+
+In addition to the above summarized data, the below chart shows the total weekly fares brought in for each city type:
+
+![Weekly_Fare](https://github.com/kroman3105/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
