@@ -4,14 +4,13 @@
 We were directed by PyBer's CEO to create a summary DataFrame of the ride-sharing data by city type.  Once created, we will then use the tools at our disposal (ie. Pandas, Matplotlib) to create a multiple-line graph showing total weekly fares for each city type.  Our objective is to use this data to show the differences that exist between city types, in order to help PyBer leadership make informed decisions when dealing with all types of cities.
 
 ## Results
-The results of our summarized DataFrame can be found below: 
+The summarized findings from our analysis can be found below: 
 
 ![DataFrame_By_Type](https://github.com/kroman3105/PyBer_Analysis/blob/main/analysis/DataFrame_By_Type.PNG).  
 
 The DataFrame revealed the following results:
 
-# Rural Cities
- - Rural cities had the fewest number of rides at 125 over the period analyzed
- - Rural cities also had the fewest number of drivers at 78 over the period analyzed
- - Rural cities brought in $4,327.93 of total fares
- - Rural cities had the highest average fare per ride and per driver at $34.62 and $55.49 respectively
+ - Urban cities had the highest number of rides at 1,625 while Rural cities had the least at 125
+ - Urban cities had the highest number of drivers at 2,405 while Rural cities had the least at 78
+ - Urban cities brought in the most total fares at $39,854.38 followed by Suburban at $19,356.33 and Rural at $4,327.93
+ - Rural cities brought in the highest fare per ride and per driver at $34.62 and $55.49 respectively.  Suburban cities brought in $30.71 per ride and $39.50 per driver while Urban cities brought in only $24.53 per ride and $16.57 per driver
